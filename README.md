@@ -1,2 +1,3 @@
 # Police-Post-Logs-
 A Python-SQL Digital Ledger for Police Post Logs 
+Developed an interactive Police Traffic Stop Analytics Dashboard using Streamlit, Python, and MySQL to analyze over thousands of real-world traffic stop records. Built automated visual insights with Plotly and implemented SQL-driven trend analysis covering driver demographics, violations, search activity, arrest rates, and time-based patterns. Designed a rule-based prediction module that generates natural-language narratives for each stop, enhancing interpretability. Applied data-cleaning and preprocessing techniques using Pandas and integrated a modern UI for smooth user interaction.
